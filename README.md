@@ -12,8 +12,6 @@ This project demonstrates a full CI/CD pipeline using AWS and GitHub.
 ## 🔄 CI/CD Flow
 GitHub → GitHub Actions → S3 → CloudFront → Live Website
 
-## 🌐 Live Demo
-[Your CloudFront URL]
 
 ## 🎯 Features
 - Automated deployment
